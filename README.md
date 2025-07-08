@@ -5,5 +5,5 @@
 #DOMAIN*: FRONT END DEVELOPMENT
 #DURATION* :4 WEEKS 
 #MENTOR*: NEELA SANTOSH KUMAR 
-#OUTPUT: 
+#OUTPUT: <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dc81a30e-2726-459c-b424-5930f281b6a2" />
 
